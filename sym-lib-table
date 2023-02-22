@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RASPBERRY_PI_3_MODEL_B_")(type "KiCad")(uri "${KIPRJMOD}/RASPBERRY_PI_3_MODEL_B_/RASPBERRY_PI_3_MODEL_B_.kicad_sym")(options "")(descr ""))
+  (lib (name "RPI3-MODBP-BULK")(type "KiCad")(uri "${KIPRJMOD}/RPI3-MODBP-BULK/RPI3-MODBP-BULK.kicad_sym")(options "")(descr ""))
+)

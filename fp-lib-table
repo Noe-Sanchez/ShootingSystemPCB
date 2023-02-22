@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "RASPBERRY_PI_3_MODEL_B_")(type "KiCad")(uri "${KIPRJMOD}/RASPBERRY_PI_3_MODEL_B_")(options "")(descr ""))
+  (lib (name "RPI3-MODBP-BULK")(type "KiCad")(uri "${KIPRJMOD}/RPI3-MODBP-BULK")(options "")(descr ""))
+)
